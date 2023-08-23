@@ -1,4 +1,8 @@
 # Hosted link https://ayush19bansal.github.io/Shoe-page/
+
+# UI
+![image](https://github.com/Ayush19bansal/Shoe-page/assets/118842033/f2bb01df-3255-4ff3-a5d4-0804ac69a038)
+
 # HTML
 ![image](https://github.com/Ayush19bansal/Shoe-page/assets/118842033/e11137a1-cefe-4a6d-9cd8-94ce37c26f08)
 # CSS
